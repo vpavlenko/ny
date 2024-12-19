@@ -16,6 +16,8 @@ I wanna try "Papers, Please", "The Stanley Parable" and "Her Story".
 
 I never studied any Latin or Greek. I wonder how long will it take before I can follow an actual ancient source and meaningfully trust the glossed translation.
 
+I want to start with [simpler texts](https://chatgpt.com/share/67649d31-6378-800f-b150-6fbabe3ad80c), so [Cornelius Nepos's _Life of Hannibal_](https://dcc.dickinson.edu/nepos-hannibal/preface)
+
 # Lean
 
 I have no idea about the current state of Lean theorem proving whatsoever. Is Hairy ball theorem proven in Lean yet? Can I verify that? What does it all mean?
