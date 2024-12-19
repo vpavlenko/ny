@@ -51,3 +51,5 @@ Given the current state of LLMs, can I gloss Al Atlal to understand it?
 # DSL for composition
 
 Can I express compositions of https://rawl.rocks/corpus/manfred_schmitz in some sort of DSL/IR/JSX?
+
+# Keyboard-only RTS, designing RTS
