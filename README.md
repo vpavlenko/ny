@@ -1,4 +1,4 @@
-On Dec 20, 2024 I start my two-week New Year holidays celebration, in which I won't be doing any music theory. Instead, I'm gonna focus on fun things which I've postponed for forever.
+On Dec 20, 2024 I start my two-week New Year holidays celebration, in which I won't be doing any music theory (almost). Instead, I'm gonna focus on fun things which I've postponed for forever.
 
 Last time I was trying to nerd out like that was 5 years ago [at the Recurse Center](https://x.com/vitalypavlenko/status/1213917296596533250).
 
