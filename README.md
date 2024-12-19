@@ -12,6 +12,12 @@ https://humanshader.com/
 
 I wanna try "Papers, Please", "The Stanley Parable" and "Her Story".
 
+# Films 
+
+I want to watch types of films I haven't touched before.
+
+
+
 # Ancient texts
 
 I never studied any Latin or Greek. I wonder how long will it take before I can follow an actual ancient source and meaningfully trust the glossed translation.
