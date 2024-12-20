@@ -12,3 +12,7 @@ Music should be easily memorable. Moder Western music (jazz or classical influen
 - a small inventory of very frequent progressions
 
 First question: can we have the same progressions framework reused in other EDOs?
+
+EDOs should be in unique position of having just a few chord types.
+
+Let's see what we have for 
