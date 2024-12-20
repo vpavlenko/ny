@@ -14,6 +14,8 @@ I wanna try "Papers, Please", "The Stanley Parable" and "Her Story".
 
 Maybe all games from https://en.wikipedia.org/wiki/Seumas_McNally_Grand_Prize
 
+"Papers, Please": got an ending 4 of 20.
+
 # Films 
 
 I want to watch types of films I haven't touched before.
