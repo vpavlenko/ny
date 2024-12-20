@@ -50,6 +50,12 @@ Given the current state of LLMs, can I gloss Al Atlal to understand it?
 
 # Tattoos on jeans
 
+There's a culture of making tattoos on a human skin. That is, putting artwork for permanent stay on one's appearance.
+
+Surprisingly, there isn't such culture for clothing. Why?
+
+Can some plotters or other tools be used to make reproducible nice-looking things on jeans? Partizan Press-like?
+
 # DSL for composition
 
 Can I express compositions of https://rawl.rocks/corpus/manfred_schmitz in some sort of DSL/IR/JSX?
