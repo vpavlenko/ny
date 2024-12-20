@@ -12,6 +12,8 @@ https://humanshader.com/
 
 I wanna try "Papers, Please", "The Stanley Parable" and "Her Story".
 
+Maybe all games from https://en.wikipedia.org/wiki/Seumas_McNally_Grand_Prize
+
 # Films 
 
 I want to watch types of films I haven't touched before.
