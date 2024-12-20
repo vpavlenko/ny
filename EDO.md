@@ -15,4 +15,16 @@ First question: can we have the same progressions framework reused in other EDOs
 
 EDOs should be in unique position of having just a few chord types.
 
-Let's see what we have for 
+# Structures we're searching for
+
+In any N-EDO, define a diatonic scale as any scale that doesn't have two consecutive semitones. I'm not sure we're actually need to restrict ourselves with exactly those scales: I'm not sure which of their properties are cool. Eg. consider minor #4b6 in 12-EDO - I quite like it.
+
+Now, define an _orienting_ scale if it's not of limited transposition.
+
+Too much talking. Let's build something.
+
+A minimally viable object for us is a shuttle: a scale that will allow us having two triads.
+
+I wonder whether we should base all triads on root-fifth relation, that is, whether root-upper interval should be the same for all types of chords we're using.
+
+4-EDO has two different chords: 1-2-3 and 2-3-4. However, 4-EDO is fully intervallically enclosed in 12-EDO, therefore it's not an interesting musical object. It's a plain fully diminished seventh chord. Also, it's not a diatonic scale within a chromatic scale, and it's not orienting.
