@@ -52,6 +52,8 @@ Given that I've learnt a lot about it in the last few years, can I theorize on e
 
 # sitelen pona
 
+I can read some more https://davidar.github.io/tp/ and https://jan-ne.github.io/lipu/
+
 # Glossing
 
 Given the current state of LLMs, can I gloss Al Atlal to understand it?
