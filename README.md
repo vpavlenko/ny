@@ -48,7 +48,12 @@ Given that I've learnt a lot about it in the last few years, can I theorize on e
 
 # Strudel
 
+- https://strudel.cc/
+- https://github.com/eefano/strudel-songs-collection/
+
 # Old collections of newspapers
+
+https://www.loc.gov/collections/chronicling-america/?dates=1760/1769
 
 # sitelen pona
 
