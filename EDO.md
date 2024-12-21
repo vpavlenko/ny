@@ -64,3 +64,34 @@ If X = 5, then we get 0, 5, 7, 2, 10 - a tetratonic scale.
 # 8-EDO
 
 150 cents. Perfect half-flats. C, Dhb, Eb, Fhb, F#, Gh#, A, Bhb.
+
+# 10-EDO
+
+Funny enough, the fifth will be 720 cents. So there will be beating, but it may actually be fun.
+
+Which chord qualities we have?
+
+360 + 360 - neutral chord.
+
+240 + 480 - sus2 chord.
+
+480 + 240 - sus4 chord.
+
+Let's first try to build a scale with neutral chords - much like a major scale in 12-EDO which has I, IV and V.
+
+A neutral chord on 0 is 0-3-6 (0n).
+
+Suppose I also take a 6-9-2 chord (6n) - with a leading tone. Then I have a proto-scale 0-2-3-6-9. 
+
+I suppose that for smoothness of melodies I want another note between 3 and 6 and between 6 and 9. 
+
+I think that for lesser chromaticism around the scale start I take 5: 0-2-3-5-6-9. Then if I take 8, let's see which chord qualities I have in 0-2-3-5-6-8-9:
+- 0n 0-3-6
+- 2n 2-5-8
+- 3n 3-6-9
+- 5no 5-8-0
+- 6n 6-9-2
+- 8?
+
+So, I have 0n, 2n, 3n, 6n. I don't have a chord quality opposition between major and minor - no solid sus chords that can act for this opposition. 3n7 can act as a dom chord - however, I can build the same structure on 0, so no dom-maj7 opposition either.
+
