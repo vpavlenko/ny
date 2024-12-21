@@ -58,3 +58,9 @@ If X = 2, then we get 0, 2, 7, 9, 4, 11, 6, 1, 8, 3, 10, 5.
 If X = 3, then we get 0, 3, 7, 10, 6, 1, 9, 4 - whole-half scale.
 
 If X = 4, then we get 0, 4, 7, 11, 8, 3 - (1,3) scale. Surprisingly underused in Western music: I don't remember any examples.
+
+If X = 5, then we get 0, 5, 7, 2, 10 - a tetratonic scale.
+
+# 8-EDO
+
+150 cents. Perfect half-flats. C, Dhb, Eb, Fhb, F#, Gh#, A, Bhb.
