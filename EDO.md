@@ -45,7 +45,7 @@ That is, a harmony is a root conditioning voice-leadings. But the way it happens
 
  What harmonies can we build?
 
-Drone harmony is acceptable. We better build an orientable scale.
+Drone harmony is acceptable. We better build an orienting scale.
 
 # Observation
 
