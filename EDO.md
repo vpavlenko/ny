@@ -93,5 +93,40 @@ I think that for lesser chromaticism around the scale start I take 5: 0-2-3-5-6-
 - 6n 6-9-2
 - 8?
 
-So, I have 0n, 2n, 3n, 6n. I don't have a chord quality opposition between major and minor - no solid sus chords that can act for this opposition. 3n7 can act as a dom chord - however, I can build the same structure on 0, so no dom-maj7 opposition either.
+So, I have 0n, 2n, 3n, 6n. I don't have a chord quality opposition between major and minor - no solid sus chords that can act for this opposition. 3n7 can act as a dom chord - however, I can build the same structure on 0, so no dom-maj7 opposition either. 
+
+I probably don't have cool applieds. What are applieds? Applieds are degrees on which I have a chord quality different from a standard dominant in there.
+
+Let's think again.
+
+The basis is a neutral chord. Can we build a system to contrast it with some other chord quality that is frequently present on a scale?
+
+0-3-6 is 0n. Let's avoid it, let's start a scale as 0-2-4-6, therefore omitting 3. Therefore we'll aim to have 6n 6-9-2 as a dominant chord - which dominance manifests in its quality, much like V in minor.
+
+0-2-6 is 0t (two-chord) - a tonic chord.
+
+## Tritone dominant approach.
+
+Tritone is 0-5. We have a percect tritone (I don't know what that means). Can we use it to have a good dominanth via a lower leading tone? Maybe by having a 4-9 chord?
+
+0-3-6 - a 0n tonic neutral chord. 4-6-9 is a dominant chord (lower diminished). 4-7-0 is a pre-dominant 4n chord. A scale so far is 0-3-4-6-7-9 - we have a gap between 0 and 3. If we take 1 (phrygian vibe), we'll have 1n chord in the scale. Unfortunately, 0-1-3-4-6-7-9-0 is not orienting. I think we need a seven-tone scale.
+
+How about 2?
+
+Can we avoid chromaticism (two consecutive semitones) in an orienting scale in 10-EDO?
+
+The only way is to have 0-2-4 somewhere in the scale. By continuing from both ends we'll get 7-9-0-2-4-5 - which shows us that these two whole tones should be in some other part of the scale (maybe around 6) - since we want a tonic neutral chord.
+
+Again, this is a colonial 12-EDO optics - why even aim for triads with good properties?
+
+
+
+# 15-EDO
+
+80 cents.
+
+A perfect fifth is the same as in 10-EDO: 720 cents. Which probably allows us to strangely blend two EDOs somewhere.
+
+Which thirds we have? 320 (minor third) and 400 (major third).
+
 
