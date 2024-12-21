@@ -32,6 +32,8 @@ I want to start with [simpler texts](https://chatgpt.com/share/67649d31-6378-800
 
 First, I'd spent an hour reading https://www.thelatinlibrary.com/101/ handouts.
 
+[**Latin**](LATIN.md)
+
 # Lean
 
 I have no idea about the current state of Lean theorem proving whatsoever. Is Hairy ball theorem proven in Lean yet? Can I verify that? What does it all mean?
