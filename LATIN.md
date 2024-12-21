@@ -13,3 +13,5 @@ What tools do we have to enhance the navigation?
 - Hover-overs, animation, visual links
 
 Historically, people doing knowledge work are using available tech - which is mostly typesetting (Word). In linguistics, the problem of showing structure via plain text is done via [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf)
+
+Let's gloss: https://vpavlenko.github.io/l/
