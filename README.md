@@ -8,6 +8,8 @@ I have a math degree, but I skipped classes on 3D. Still, I think I know all rel
 
 https://humanshader.com/ 
 
+Also [this video](https://youtu.be/BFld4EBO2RE?si=P-vjFfOqr9Owb7ai)
+
 # Video games
 
 I wanna try "Papers, Please", "The Stanley Parable" and "Her Story".
