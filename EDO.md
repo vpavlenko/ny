@@ -119,6 +119,13 @@ The only way is to have 0-2-4 somewhere in the scale. By continuing from both en
 
 Again, this is a colonial 12-EDO optics - why even aim for triads with good properties?
 
+6-8-0? 6-8-0-1-3-5-6 -> 0-1-3-5-6-8. Six-tone scale again. Chords?
+- 0n: 0-3-6
+- 1? - don't have fifth
+- 3? - don't have fifth
+- 5n 5-8-1
+- 6?
+- 8?
 
 
 # 15-EDO
