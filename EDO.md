@@ -127,6 +127,48 @@ Again, this is a colonial 12-EDO optics - why even aim for triads with good prop
 - 6?
 - 8?
 
+## Fresh look
+
+Since we only have one third (a neutral third, 360 cents), the main opposition we gonna have (if possible) is between 720 chords and 600 chords. We have two types of diminished chords: 240+360 and 360+240 (l and u). Ideally, we only have one of those types for dominant (same as V7 uniqueness), so that it would be orienting and applied-usable. 
+
+Can we have a neutral chord a tonic and a dim chord a dominant?
+
+### Lower leading tone
+
+Capture 9 via dim dominant. So, options are 4-6-9, 4-7-9; 6-9-1, 7-9-2; 9-1-4, 9-2-4.
+
+0n: 0-3-6
+
+#### Try 6-9-1 u
+
+- 0n: 0-3-6
+- 1l: 1-3-6 
+- 3n: 3-6-9
+- 4l: 4-6-9
+- 6u: 6-9-1
+- 9l: 9-1-4
+
+
+Scale: 0-1-3-4-6-9, orienting, neutral scale.
+
+Should have an opposing scale as 0l tonic chord: 0-2-5 with dominant 6-9-1, 0-1-2-5-6-9. Heavily chromaticized, unstable.
+
+### Aug chords?
+
+An alternative is probably a scale where two main opposing chords are neutral and augmented.
+
+0-3-6 neutral, its upper structure augmented is 3-6-0 (same chord) - can't work.
+
+### Try 7-9-2 l
+
+0n: 0-3-6
+2
+3
+4
+6n: 6-9-2
+7l: 7-9-2
+9u: 9-2-4
+
 
 # 15-EDO
 
