@@ -76,3 +76,5 @@ Can some plotters or other tools be used to make reproducible nice-looking thing
 Can I express compositions of https://rawl.rocks/corpus/manfred_schmitz in some sort of DSL/IR/JSX?
 
 # Keyboard-only RTS, designing RTS
+
+# Play with a granular synthesis
