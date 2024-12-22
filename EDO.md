@@ -239,3 +239,8 @@ A perfect fifth is the same as in 10-EDO: 720 cents. Which probably allows us to
 Which thirds we have? 320 (minor third) and 400 (major third).
 
 
+
+
+# See also
+
+- https://cochranemusic.com/node/264
