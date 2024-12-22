@@ -217,12 +217,17 @@ Let's orient it like that: 0-1-3-4-6-8.
 
 Chord qualities:
 - 0n: 0-3-6
-- 1: if go in thirds, 1-4-8 makes 8 a root - 8-1-4, 8n. It's an upper leading tone dominant chord. There's also 1-4-6, 1u. Which makes 8-1-4-6 a nice dominant seventh chord, I hope.
+- 1: if go in thirds, 1-4-8 makes 8 a root - 8-1-4, 8n. It's an upper leading tone dominant chord. There's also 1-4-6, 1u. Which makes 8-1-4-6 a nice dominant seventh chord, I hope. Although there's no 0n-maj7 kind of seventh
 - 3u: 3-6-8
 - 4q: 4-6-8 (not sure how stable would a quartal dim chord 240+240 be)
 - 6q: 6-8-0
 - 8n and 8n7
 
+## Separate diatonic 10-EDO scale
+
+0-1-3-5-6-8
+
+## Can we have a 10-EDO scale with a 0n-maj7 chord 0-3-6-9?
 
 
 # 15-EDO
