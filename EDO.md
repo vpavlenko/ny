@@ -161,13 +161,56 @@ An alternative is probably a scale where two main opposing chords are neutral an
 
 ### Try 7-9-2 l
 
-0n: 0-3-6
-2
-3
-4
-6n: 6-9-2
-7l: 7-9-2
-9u: 9-2-4
+- 0n: 0-3-6
+- 2
+- 3
+- 4
+- 6n: 6-9-2
+- 7l: 7-9-2
+- 9u: 9-2-4
+
+## No dominant
+
+Let's have all chords as neutral chords? What are seventh chord types we have?
+
+- 0-3-6-9 - neutral seventh chord
+- 0-3-6-8 - neutral minor seventh chord
+
+Imagine I want an upper leading tone via 8n dominant:
+- 0n: 0-3-6
+- 1: 1-4-7
+- 3: 3-6-8
+- 4: 4-6-8
+- 6-9
+- 8n: 8-1-4
+
+## In thirds
+
+0n means 0-3-6 between 0 and 3 we take one, same for 3 and 6.
+
+Imagine we take 0-1-3-4-6. We can't make chords neatly alternating. 1-4-6. 3-6-9, 4-6-9, 6-9-1.
+
+I don't like that we have 9-0-1 consecutive.
+
+## From scale
+
+Which diatonic scales we have in 10-EDO?
+
+Each scale has at least 9-0, otherwise we have 0-2-4-6-8.
+
+9-0 bans 8 and 1.
+
+-7-9-0-2-
+
+Where's next position of semitone?
+
+Options:
+
+- Together: -7-9-0-2-3-5-
+- Separate: -5-7-9-0-2-4-
+
+There are exactly two diatonic scales in 10-EDO.
+
 
 
 # 15-EDO
