@@ -80,3 +80,8 @@ Can I express compositions of https://rawl.rocks/corpus/manfred_schmitz in some 
 # Keyboard-only RTS, designing RTS
 
 # Play with a granular synthesis
+
+
+# Read some articles
+
+- https://www.goodfire.ai/papers/mapping-latent-spaces-llama/
