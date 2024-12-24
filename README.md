@@ -85,3 +85,12 @@ Can I express compositions of https://rawl.rocks/corpus/manfred_schmitz in some 
 # Read some articles
 
 - https://www.goodfire.ai/papers/mapping-latent-spaces-llama/
+
+
+# Muse on spaces
+
+Most of my life I don't work, therefore I don't go to the office. So, I need to exist somewhere during the day. 
+
+The default - staying at home - isn't very social. So as a default remedy I go to coffee shops and cafes. Throughout my life, I've tried other spaces: libraries, hacker spaces, study spaces.
+
+Some of these spaces are shaped and distorted by capitalism. Is this necessary? Is this avoidable? Can we have an indoor space that's outside of capitalism and is organized with a community in mind?
