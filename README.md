@@ -65,6 +65,8 @@ I can read some more https://davidar.github.io/tp/ and https://jan-ne.github.io/
 
 Given the current state of LLMs, can I gloss Al Atlal to understand it?
 
+https://www.fanfiction.net/s/8933452/1/Harry-Potter-dan-Metode-Rasionalitas
+
 # Tattoos on jeans
 
 There's a culture of making tattoos on a human skin. That is, putting artwork for permanent stay on one's appearance.
